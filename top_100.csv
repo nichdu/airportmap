@@ -1,0 +1,101 @@
+item,itemLabel,patrons,lat,long
+http://www.wikidata.org/entity/Q214861,Hartsfield–Jackson Atlanta International Airport,103902992,33.636666666667,-84.428055555556
+http://www.wikidata.org/entity/Q32190,Beijing Capital International Airport,95786442,40.073333,116.595
+http://www.wikidata.org/entity/Q193439,Dubai International Airport,88242099,25.252777777778,55.364444444444
+http://www.wikidata.org/entity/Q204853,Tokyo International Airport,85408975,35.553333333333,139.78111111111
+http://www.wikidata.org/entity/Q8731,Los Angeles International Airport,84557968,33.9425,-118.408056
+http://www.wikidata.org/entity/Q213717,O'Hare International Airport,79828183,41.978611111111,-87.904722222222
+http://www.wikidata.org/entity/Q8691,Heathrow Airport,78014598,51.4775,-0.461389
+http://www.wikidata.org/entity/Q17704,Hong Kong International Airport,72665078,22.308889,113.914444
+http://www.wikidata.org/entity/Q36420,Shanghai Pudong International Airport,70001237,31.143333,121.805278
+http://www.wikidata.org/entity/Q46280,Paris-Charles de Gaulle Airport,69471442,49.009722222222,2.5477777777778
+http://www.wikidata.org/entity/Q9694,Amsterdam Airport Schiphol,68515425,52.3081,4.7641694444444
+http://www.wikidata.org/entity/Q459096,Dallas/Fort Worth International Airport,67092777,32.896944444444,-97.038055555556
+http://www.wikidata.org/entity/Q44868,Guangzhou Baiyun International Airport,65887473,23.392436111111,113.29878611111
+http://www.wikidata.org/entity/Q46033,Frankfurt Airport,64500386,50.033333333333,8.5705555555556
+http://www.wikidata.org/entity/Q86473,Atatürk International Airport,64119374,40.976111111111,28.814166666667
+http://www.wikidata.org/entity/Q821275,Indira Gandhi International Airport,63451503,28.554444444444,77.099444444444
+http://www.wikidata.org/entity/Q749497,Soekarno–Hatta International Airport,63015620,-6.127361,106.653833
+http://www.wikidata.org/entity/Q32159,Singapore Changi Airport,62220000,1.359167,103.989444
+http://www.wikidata.org/entity/Q20932,Incheon International Airport,62157834,37.4625,126.43916666667
+http://www.wikidata.org/entity/Q330015,Denver International Airport,61379396,39.861666666667,-104.67305555556
+http://www.wikidata.org/entity/Q194316,Suvarnabhumi Airport,60860704,13.681111,100.747222
+http://www.wikidata.org/entity/Q8685,John F. Kennedy International Airport,59392500,40.639722,-73.778889
+http://www.wikidata.org/entity/Q500253,Kuala Lumpur International Airport,58558440,2.745556,101.709722
+http://www.wikidata.org/entity/Q8688,San Francisco International Airport,55832518,37.618888888889,-122.375
+http://www.wikidata.org/entity/Q166276,Madrid–Barajas Airport,53400844,40.472222222222,-3.5608333333333
+http://www.wikidata.org/entity/Q387560,Chengdu Shuangliu International Airport,49801693,30.58,103.948333
+http://www.wikidata.org/entity/Q853886,McCarran International Airport,48566803,36.08,-115.15222222222
+http://www.wikidata.org/entity/Q56973,Josep Tarradellas Airport Barcelona-El Prat,47284500,41.296944,2.078333
+http://www.wikidata.org/entity/Q504368,Chhatrapati Shivaji International Airport,47204259,19.088611111111,72.868055555556
+http://www.wikidata.org/entity/Q242066,Toronto Pearson International Airport,47130358,43.6767,-79.6306
+http://www.wikidata.org/entity/Q14295,Seattle–Tacoma International Airport,46934619,47.448889,-122.309444
+http://www.wikidata.org/entity/Q597649,Charlotte/Douglas International Airport,45909899,35.213888888889,-80.943055555556
+http://www.wikidata.org/entity/Q842297,Shenzhen Bao'an International Airport,45610651,22.639444444444,113.81083333333
+http://www.wikidata.org/entity/Q8703,Gatwick Airport,45561694,51.147222222222,-0.19027777777778
+http://www.wikidata.org/entity/Q44856,Taoyuan International Airport,44878703,25.076388888889,121.22388888889
+http://www.wikidata.org/entity/Q860559,Mexico City International Airport,44732418,19.436111,-99.071944
+http://www.wikidata.org/entity/Q1371636,Kunming Changshui International Airport,44729736,25.10194444,102.92916667
+http://www.wikidata.org/entity/Q929859,Orlando International Airport,44611265,28.429444,-81.308889
+http://www.wikidata.org/entity/Q131402,Munich Airport,44577241,48.353888888889,11.786111111111
+http://www.wikidata.org/entity/Q127530,Miami International Airport,44071313,25.793333333333,-80.290555555556
+http://www.wikidata.org/entity/Q912916,Phoenix Sky Harbor International Airport,43921670,33.434166666667,-112.01166666667
+http://www.wikidata.org/entity/Q17581,Sydney Airport,43410355,-33.946111,151.177222
+http://www.wikidata.org/entity/Q466786,Newark Liberty International Airport,43393499,40.6925,-74.1686
+http://www.wikidata.org/entity/Q86446,Ninoy Aquino International Airport,42022484,14.508611,121.019444
+http://www.wikidata.org/entity/Q421811,Shanghai Hongqiao International Airport,41884059,31.198056,121.336389
+http://www.wikidata.org/entity/Q141677,Xi'an Xianyang International Airport,41857406,34.446944444444,108.75138888889
+http://www.wikidata.org/entity/Q19101,Leonardo da Vinci–Fiumicino Airport,40971881,41.800277777778,12.238888888889
+http://www.wikidata.org/entity/Q744748,George Bush Intercontinental Airport,40696189,29.984444444444,-95.341388888889
+http://www.wikidata.org/entity/Q36454,Narita International Airport,40631193,35.7649,140.38845
+http://www.wikidata.org/entity/Q192733,Sheremetyevo International Airport,40093000,55.972641676667,37.414588898889
+http://www.wikidata.org/entity/Q788417,Chongqing Jiangbei International Airport,38715210,29.719166666667,106.64166666667
+http://www.wikidata.org/entity/Q671475,Logan International Airport,38454539,42.363056,-71.006389
+http://www.wikidata.org/entity/Q1046755,Don Mueang International Airport,38299376,13.9125,100.60666666667
+http://www.wikidata.org/entity/Q875749,Minneapolis–Saint Paul International Airport,38034341,44.881944444444,-93.221666666667
+http://www.wikidata.org/entity/Q385406,São Paulo-Guarulhos International Airport,38008955,-23.4256,-46.4818
+http://www.wikidata.org/entity/Q733738,Melbourne Airport,35997230,-37.673333333333,144.84333333333
+http://www.wikidata.org/entity/Q1197691,Hangzhou Xiaoshan International Airport,35570411,30.229444444444,120.43444444444
+http://www.wikidata.org/entity/Q1198791,Hamad International Airport,35270410,25.273055555556,51.608055555556
+http://www.wikidata.org/entity/Q652505,Detroit Metropolitan Wayne County Airport,34701497,42.2125,-83.353333
+http://www.wikidata.org/entity/Q153592,King Abdulaziz International Airport,33929895,21.681111111111,39.155555555556
+http://www.wikidata.org/entity/Q635361,Fort Lauderdale–Hollywood International Airport,32511053,26.0725,-80.152777777778
+http://www.wikidata.org/entity/Q223416,Orly Airport,32042475,48.723333,2.379444
+http://www.wikidata.org/entity/Q723622,Istanbul Sabiha Gökçen International Airport,31386422,40.898333333333,29.309166666667
+http://www.wikidata.org/entity/Q186614,Domodedovo International Airport,30657854,55.408611111111,37.906111111111
+http://www.wikidata.org/entity/Q482497,Jeju International Airport,29604363,33.512222222222,126.49277777778
+http://www.wikidata.org/entity/Q178021,Dublin Airport,29582308,53.421388888889,-6.27
+http://www.wikidata.org/entity/Q319654,LaGuardia Airport,29568304,40.77725,-73.872611111111
+http://www.wikidata.org/entity/Q15114,Zurich Airport,29396094,47.464722222222,8.5491666666667
+http://www.wikidata.org/entity/Q206277,Copenhagen Airport,29177761,55.618055555556,12.656111111111
+http://www.wikidata.org/entity/Q656993,Palma de Mallorca Airport,27970656,39.551675,2.7388083333333
+http://www.wikidata.org/entity/Q193682,Kansai International Airport,27886816,34.434166666667,135.23277777778
+http://www.wikidata.org/entity/Q8694,Manchester Airport,27826054,53.353889,-2.275
+http://www.wikidata.org/entity/Q210559,"Oslo Airport, Gardermoen",27482486,60.202778,11.083889
+http://www.wikidata.org/entity/Q403671,Lisbon Airport,26676552,38.774167,-9.134167
+http://www.wikidata.org/entity/Q223499,Stockholm Arlanda Airport,26642034,59.651944444444,17.918611111111
+http://www.wikidata.org/entity/Q8709,London Stansted Airport,25904450,51.885,0.235
+http://www.wikidata.org/entity/Q827480,Antalya International Airport,25873538,36.900277777778,30.792777777778
+http://www.wikidata.org/entity/Q559107,Nanjing Lukou International Airport,25822936,31.742222222222,118.86194444444
+http://www.wikidata.org/entity/Q482493,Gimpo International Airport,25101147,37.556944444444,126.7975
+http://www.wikidata.org/entity/Q28934,Brussels Airport,24783911,50.901388888889,4.4844444444444
+http://www.wikidata.org/entity/Q58226,Düsseldorf International Airport,24640564,51.289444444444,6.7666666666667
+http://www.wikidata.org/entity/Q177216,Xiamen Gaoqi International Airport,24485239,24.544166666667,118.12777777778
+http://www.wikidata.org/entity/Q32999,Wien-Schwechat Airport,24392805,48.110278,16.569722
+http://www.wikidata.org/entity/Q2034869,Zhengzhou Xinzheng International Airport,24299073,34.519722222222,113.84083333333
+http://www.wikidata.org/entity/Q1137465,Fukuoka Airport,23796849,33.584444444444,130.45166666667
+http://www.wikidata.org/entity/Q1330618,Changsha Huanghua International Airport,23764820,28.196666666667,113.22083333333
+http://www.wikidata.org/entity/Q641967,Cancún International Airport,23601509,21.036667,-86.876944
+http://www.wikidata.org/entity/Q321224,Vancouver International Airport,23410812,49.1947,-123.184
+http://www.wikidata.org/entity/Q1156790,Qingdao Liuting International Airport,23210530,36.266111111111,120.37444444444
+http://www.wikidata.org/entity/Q601091,Wuhan Tianhe International Airport,23129400,30.783611111111,114.20805555556
+http://www.wikidata.org/entity/Q45523,Brisbane Airport,22949267,-27.383333333333,153.11833333333
+http://www.wikidata.org/entity/Q1143116,Haikou Meilan International Airport,22584815,19.934722222222,110.45888888889
+http://www.wikidata.org/entity/Q60910,Milan–Malpensa Airport,22169167,45.63,8.7230555555556
+http://www.wikidata.org/entity/Q211734,Athens International Airport,21737787,37.936388888889,23.944444444444
+http://www.wikidata.org/entity/Q765650,Ürümqi Diwopu International Airport,21500901,43.907222222222,87.474166666667
+http://www.wikidata.org/entity/Q821750,OR Tambo International Airport,21237208,-26.139167,28.246111
+http://www.wikidata.org/entity/Q774669,Tianjin Binhai International Airport,21005001,39.124444444444,117.34611111111
+http://www.wikidata.org/entity/Q181479,Ben Gurion Airport,20781226,32.009444444444,34.882777777778
+http://www.wikidata.org/entity/Q9688,Berlin Tegel Airport,20460688,52.559722,13.287778
+http://www.wikidata.org/entity/Q684964,Sanya Phoenix International Airport,19389936,18.302897222222,109.41227222222

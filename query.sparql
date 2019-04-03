@@ -1,0 +1,22 @@
+# 50 most busiest airports
+# url: http://tinyurl.com/y6zufy83
+
+SELECT ?item ?itemLabel (max(?patronage) as ?patrons) (sample(?lat) as ?lat) (sample(?lon) as ?long)
+WHERE
+{
+?item wdt:P31 wd:Q644371 .
+  ?item p:P625 ?coordinate.
+  ?coordinate ps:P625 ?coord.
+  ?coordinate psv:P625 ?coordinate_node.
+  ?coordinate_node wikibase:geoLongitude ?lon.
+  ?coordinate_node wikibase:geoLatitude ?lat.  
+  ?item p:P3872 ?patron.
+  ?patron ps:P3872 ?patronage.
+  ?patron pq:P585 ?date.
+  BIND(year(?date) AS ?year).
+  FILTER (?year = 2017)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}
+GROUP BY ?item ?itemLabel ?patrons
+ORDER BY DESC(?patrons)
+LIMIT 10000

@@ -1,0 +1,484 @@
+item,itemLabel,patrons,lat,long
+http://www.wikidata.org/entity/Q214861,Hartsfield–Jackson Atlanta International Airport,103902992,33.636666666667,-84.428055555556
+http://www.wikidata.org/entity/Q32190,Beijing Capital International Airport,95786442,40.073333,116.595
+http://www.wikidata.org/entity/Q193439,Dubai International Airport,88242099,25.252777777778,55.364444444444
+http://www.wikidata.org/entity/Q204853,Tokyo International Airport,85408975,35.553333333333,139.78111111111
+http://www.wikidata.org/entity/Q8731,Los Angeles International Airport,84557968,33.9425,-118.408056
+http://www.wikidata.org/entity/Q213717,O'Hare International Airport,79828183,41.978611111111,-87.904722222222
+http://www.wikidata.org/entity/Q8691,Heathrow Airport,78014598,51.4775,-0.461389
+http://www.wikidata.org/entity/Q17704,Hong Kong International Airport,72665078,22.308889,113.914444
+http://www.wikidata.org/entity/Q36420,Shanghai Pudong International Airport,70001237,31.143333,121.805278
+http://www.wikidata.org/entity/Q46280,Paris-Charles de Gaulle Airport,69471442,49.009722222222,2.5477777777778
+http://www.wikidata.org/entity/Q9694,Amsterdam Airport Schiphol,68515425,52.3081,4.7641694444444
+http://www.wikidata.org/entity/Q459096,Dallas/Fort Worth International Airport,67092777,32.896944444444,-97.038055555556
+http://www.wikidata.org/entity/Q44868,Guangzhou Baiyun International Airport,65887473,23.392436111111,113.29878611111
+http://www.wikidata.org/entity/Q46033,Frankfurt Airport,64500386,50.033333333333,8.5705555555556
+http://www.wikidata.org/entity/Q86473,Atatürk International Airport,64119374,40.976111111111,28.814166666667
+http://www.wikidata.org/entity/Q821275,Indira Gandhi International Airport,63451503,28.554444444444,77.099444444444
+http://www.wikidata.org/entity/Q749497,Soekarno–Hatta International Airport,63015620,-6.127361,106.653833
+http://www.wikidata.org/entity/Q32159,Singapore Changi Airport,62220000,1.359167,103.989444
+http://www.wikidata.org/entity/Q20932,Incheon International Airport,62157834,37.4625,126.43916666667
+http://www.wikidata.org/entity/Q330015,Denver International Airport,61379396,39.861666666667,-104.67305555556
+http://www.wikidata.org/entity/Q194316,Suvarnabhumi Airport,60860704,13.681111,100.747222
+http://www.wikidata.org/entity/Q8685,John F. Kennedy International Airport,59392500,40.639722,-73.778889
+http://www.wikidata.org/entity/Q500253,Kuala Lumpur International Airport,58558440,2.745556,101.709722
+http://www.wikidata.org/entity/Q8688,San Francisco International Airport,55832518,37.618888888889,-122.375
+http://www.wikidata.org/entity/Q166276,Madrid–Barajas Airport,53400844,40.472222222222,-3.5608333333333
+http://www.wikidata.org/entity/Q387560,Chengdu Shuangliu International Airport,49801693,30.58,103.948333
+http://www.wikidata.org/entity/Q853886,McCarran International Airport,48566803,36.08,-115.15222222222
+http://www.wikidata.org/entity/Q56973,Josep Tarradellas Airport Barcelona-El Prat,47284500,41.296944,2.078333
+http://www.wikidata.org/entity/Q504368,Chhatrapati Shivaji International Airport,47204259,19.088611111111,72.868055555556
+http://www.wikidata.org/entity/Q242066,Toronto Pearson International Airport,47130358,43.6767,-79.6306
+http://www.wikidata.org/entity/Q14295,Seattle–Tacoma International Airport,46934619,47.448889,-122.309444
+http://www.wikidata.org/entity/Q597649,Charlotte/Douglas International Airport,45909899,35.213888888889,-80.943055555556
+http://www.wikidata.org/entity/Q842297,Shenzhen Bao'an International Airport,45610651,22.639444444444,113.81083333333
+http://www.wikidata.org/entity/Q8703,Gatwick Airport,45561694,51.147222222222,-0.19027777777778
+http://www.wikidata.org/entity/Q44856,Taoyuan International Airport,44878703,25.076388888889,121.22388888889
+http://www.wikidata.org/entity/Q860559,Mexico City International Airport,44732418,19.436111,-99.071944
+http://www.wikidata.org/entity/Q1371636,Kunming Changshui International Airport,44729736,25.10194444,102.92916667
+http://www.wikidata.org/entity/Q929859,Orlando International Airport,44611265,28.429444,-81.308889
+http://www.wikidata.org/entity/Q131402,Munich Airport,44577241,48.353888888889,11.786111111111
+http://www.wikidata.org/entity/Q127530,Miami International Airport,44071313,25.793333333333,-80.290555555556
+http://www.wikidata.org/entity/Q912916,Phoenix Sky Harbor International Airport,43921670,33.434166666667,-112.01166666667
+http://www.wikidata.org/entity/Q17581,Sydney Airport,43410355,-33.946111,151.177222
+http://www.wikidata.org/entity/Q466786,Newark Liberty International Airport,43393499,40.6925,-74.1686
+http://www.wikidata.org/entity/Q86446,Ninoy Aquino International Airport,42022484,14.508611,121.019444
+http://www.wikidata.org/entity/Q421811,Shanghai Hongqiao International Airport,41884059,31.198056,121.336389
+http://www.wikidata.org/entity/Q141677,Xi'an Xianyang International Airport,41857406,34.446944444444,108.75138888889
+http://www.wikidata.org/entity/Q19101,Leonardo da Vinci–Fiumicino Airport,40971881,41.800277777778,12.238888888889
+http://www.wikidata.org/entity/Q744748,George Bush Intercontinental Airport,40696189,29.984444444444,-95.341388888889
+http://www.wikidata.org/entity/Q36454,Narita International Airport,40631193,35.7649,140.38845
+http://www.wikidata.org/entity/Q192733,Sheremetyevo International Airport,40093000,55.972641676667,37.414588898889
+http://www.wikidata.org/entity/Q788417,Chongqing Jiangbei International Airport,38715210,29.719166666667,106.64166666667
+http://www.wikidata.org/entity/Q671475,Logan International Airport,38454539,42.363056,-71.006389
+http://www.wikidata.org/entity/Q1046755,Don Mueang International Airport,38299376,13.9125,100.60666666667
+http://www.wikidata.org/entity/Q875749,Minneapolis–Saint Paul International Airport,38034341,44.881944444444,-93.221666666667
+http://www.wikidata.org/entity/Q385406,São Paulo-Guarulhos International Airport,38008955,-23.4256,-46.4818
+http://www.wikidata.org/entity/Q733738,Melbourne Airport,35997230,-37.673333333333,144.84333333333
+http://www.wikidata.org/entity/Q1197691,Hangzhou Xiaoshan International Airport,35570411,30.229444444444,120.43444444444
+http://www.wikidata.org/entity/Q1198791,Hamad International Airport,35270410,25.273055555556,51.608055555556
+http://www.wikidata.org/entity/Q652505,Detroit Metropolitan Wayne County Airport,34701497,42.2125,-83.353333
+http://www.wikidata.org/entity/Q153592,King Abdulaziz International Airport,33929895,21.681111111111,39.155555555556
+http://www.wikidata.org/entity/Q635361,Fort Lauderdale–Hollywood International Airport,32511053,26.0725,-80.152777777778
+http://www.wikidata.org/entity/Q223416,Orly Airport,32042475,48.723333,2.379444
+http://www.wikidata.org/entity/Q723622,Istanbul Sabiha Gökçen International Airport,31386422,40.898333333333,29.309166666667
+http://www.wikidata.org/entity/Q186614,Domodedovo International Airport,30657854,55.408611111111,37.906111111111
+http://www.wikidata.org/entity/Q482497,Jeju International Airport,29604363,33.512222222222,126.49277777778
+http://www.wikidata.org/entity/Q178021,Dublin Airport,29582308,53.421388888889,-6.27
+http://www.wikidata.org/entity/Q319654,LaGuardia Airport,29568304,40.77725,-73.872611111111
+http://www.wikidata.org/entity/Q15114,Zurich Airport,29396094,47.464722222222,8.5491666666667
+http://www.wikidata.org/entity/Q206277,Copenhagen Airport,29177761,55.618055555556,12.656111111111
+http://www.wikidata.org/entity/Q656993,Palma de Mallorca Airport,27970656,39.551675,2.7388083333333
+http://www.wikidata.org/entity/Q193682,Kansai International Airport,27886816,34.434166666667,135.23277777778
+http://www.wikidata.org/entity/Q8694,Manchester Airport,27826054,53.353889,-2.275
+http://www.wikidata.org/entity/Q210559,"Oslo Airport, Gardermoen",27482486,60.202778,11.083889
+http://www.wikidata.org/entity/Q403671,Lisbon Airport,26676552,38.774167,-9.134167
+http://www.wikidata.org/entity/Q223499,Stockholm Arlanda Airport,26642034,59.651944444444,17.918611111111
+http://www.wikidata.org/entity/Q8709,London Stansted Airport,25904450,51.885,0.235
+http://www.wikidata.org/entity/Q827480,Antalya International Airport,25873538,36.900277777778,30.792777777778
+http://www.wikidata.org/entity/Q559107,Nanjing Lukou International Airport,25822936,31.742222222222,118.86194444444
+http://www.wikidata.org/entity/Q482493,Gimpo International Airport,25101147,37.556944444444,126.7975
+http://www.wikidata.org/entity/Q28934,Brussels Airport,24783911,50.901388888889,4.4844444444444
+http://www.wikidata.org/entity/Q58226,Düsseldorf International Airport,24640564,51.289444444444,6.7666666666667
+http://www.wikidata.org/entity/Q177216,Xiamen Gaoqi International Airport,24485239,24.544166666667,118.12777777778
+http://www.wikidata.org/entity/Q32999,Wien-Schwechat Airport,24392805,48.110278,16.569722
+http://www.wikidata.org/entity/Q2034869,Zhengzhou Xinzheng International Airport,24299073,34.519722222222,113.84083333333
+http://www.wikidata.org/entity/Q1137465,Fukuoka Airport,23796849,33.584444444444,130.45166666667
+http://www.wikidata.org/entity/Q1330618,Changsha Huanghua International Airport,23764820,28.196666666667,113.22083333333
+http://www.wikidata.org/entity/Q641967,Cancún International Airport,23601509,21.036667,-86.876944
+http://www.wikidata.org/entity/Q321224,Vancouver International Airport,23410812,49.1947,-123.184
+http://www.wikidata.org/entity/Q1156790,Qingdao Liuting International Airport,23210530,36.266111111111,120.37444444444
+http://www.wikidata.org/entity/Q601091,Wuhan Tianhe International Airport,23129400,30.783611111111,114.20805555556
+http://www.wikidata.org/entity/Q45523,Brisbane Airport,22949267,-27.383333333333,153.11833333333
+http://www.wikidata.org/entity/Q1143116,Haikou Meilan International Airport,22584815,19.934722222222,110.45888888889
+http://www.wikidata.org/entity/Q60910,Milan–Malpensa Airport,22169167,45.63,8.7230555555556
+http://www.wikidata.org/entity/Q211734,Athens International Airport,21737787,37.936388888889,23.944444444444
+http://www.wikidata.org/entity/Q765650,Ürümqi Diwopu International Airport,21500901,43.907222222222,87.474166666667
+http://www.wikidata.org/entity/Q821750,OR Tambo International Airport,21237208,-26.139167,28.246111
+http://www.wikidata.org/entity/Q774669,Tianjin Binhai International Airport,21005001,39.124444444444,117.34611111111
+http://www.wikidata.org/entity/Q181479,Ben Gurion Airport,20781226,32.009444444444,34.882777777778
+http://www.wikidata.org/entity/Q9688,Berlin Tegel Airport,20460688,52.559722,13.287778
+http://www.wikidata.org/entity/Q684964,Sanya Phoenix International Airport,19389936,18.302897222222,109.41227222222
+http://www.wikidata.org/entity/Q45938,Auckland Airport,19020573,-37.008055555556,174.79166666667
+http://www.wikidata.org/entity/Q215327,Helsinki Airport,18981400,60.317222222222,24.963333333333
+http://www.wikidata.org/entity/Q1156786,Harbin Taiping International Airport,18810317,45.623402777778,126.25032777778
+http://www.wikidata.org/entity/Q690894,Málaga Airport,18626581,36.675,-4.499167
+http://www.wikidata.org/entity/Q273462,Vnukovo International Airport,18139000,55.596111111111,37.2675
+http://www.wikidata.org/entity/Q3243613,Guiyang Longdongbao International Airport,18109610,26.538611111111,106.80083333333
+http://www.wikidata.org/entity/Q27706,Hamburg Airport,17622997,53.630278,9.991111
+http://www.wikidata.org/entity/Q965083,Dalian Zhoushuizi International Airport,17503810,38.965555555556,121.53833333333
+http://www.wikidata.org/entity/Q289972,Geneva International Airport,17351816,46.238333333333,6.1094444444444
+http://www.wikidata.org/entity/Q1144167,Shenyang Taoxian International Airport,17342626,41.64,123.48361111111
+http://www.wikidata.org/entity/Q736627,Montréal–Pierre Elliott Trudeau International Airport,17258472,45.4706,-73.7408
+http://www.wikidata.org/entity/Q909488,Brasília International Airport,16737545,-15.871111111111,-47.918611111111
+http://www.wikidata.org/entity/Q483223,Gimhae International Airport,16403541,35.180555555556,128.93805555556
+http://www.wikidata.org/entity/Q1160343,Calgary International Airport,16275862,51.113889,-114.020278
+http://www.wikidata.org/entity/Q733998,Rio de Janeiro-Galeão International Airport,16141941,-22.81,-43.25056
+http://www.wikidata.org/entity/Q690122,Pulkovo Airport,16125520,59.800277777778,30.2625
+http://www.wikidata.org/entity/Q8712,Luton Airport,15990276,51.874722,-0.368333
+http://www.wikidata.org/entity/Q461793,Cairo International Airport,15959046,30.121944444444,31.405555555556
+http://www.wikidata.org/entity/Q430490,Esenboğa International Airport,15817236,40.128055555556,32.995
+http://www.wikidata.org/entity/Q465071,Warsaw Chopin Airport,15762747,52.165833333333,20.967222222222
+http://www.wikidata.org/entity/Q1046748,Osaka International Airport,15597777,34.785527777778,135.43822222222
+http://www.wikidata.org/entity/Q99172,Prague Václav Havel Airport,15371502,50.100833333333,14.26
+http://www.wikidata.org/entity/Q1378003,Jinan Yaoqiang International Airport,14319264,36.857222222222,117.21611111111
+http://www.wikidata.org/entity/Q3238350,Nanning Wuxu International Airport,13915542,22.608266666667,108.17244166667
+http://www.wikidata.org/entity/Q849314,Alicante Airport,13713063,38.282222222222,-0.55805555555556
+http://www.wikidata.org/entity/Q8716,Edinburgh Airport,13410343,55.95,-3.3725
+http://www.wikidata.org/entity/Q821557,Nice Côte d'Azur Airport,13304782,43.665277777778,7.215
+http://www.wikidata.org/entity/Q500945,Budapest Ferenc Liszt International Airport,13097223,47.439444444444,19.261944444444
+http://www.wikidata.org/entity/Q1130612,Gran Canaria Airport,13092475,27.931944444444,-15.386666666667
+http://www.wikidata.org/entity/Q8719,Birmingham Airport,12990303,52.453888888889,-1.7480555555556
+http://www.wikidata.org/entity/Q9689,Berlin Schönefeld Airport,12865312,52.378611,13.520556
+http://www.wikidata.org/entity/Q504382,Izmir Adnan Menderes Airport,12825242,38.289166666667,27.155
+http://www.wikidata.org/entity/Q3234734,Lanzhou Zhongchuan International Airport,12816443,36.516667,103.621667
+http://www.wikidata.org/entity/Q932025,Miguel Hidalgo y Costilla Guadalajara International Airport,12808000,20.521837,-103.311145
+http://www.wikidata.org/entity/Q257631,Henri Coandă International Airport,12804191,44.571111111111,26.085
+http://www.wikidata.org/entity/Q1350630,Fuzhou Changle International Airport,12469235,25.935,119.66333333333
+http://www.wikidata.org/entity/Q2361055,Taiyuan Wusu International Airport,12401086,37.746944444444,112.62833333333
+http://www.wikidata.org/entity/Q157741,Cologne Bonn Airport,12384223,50.865833333333,7.1427777777778
+http://www.wikidata.org/entity/Q45935,Perth Airport,12381495,-31.940277777778,115.96694444444
+http://www.wikidata.org/entity/Q517873,Il Caravaggio International Airport,12336137,45.668888888889,9.7002777777778
+http://www.wikidata.org/entity/Q1197677,Changchun Longjia International Airport,11662943,43.996111111111,125.68527777778
+http://www.wikidata.org/entity/Q679345,Chubu Centrair International Airport,11446244,34.858333333333,136.80527777778
+http://www.wikidata.org/entity/Q821984,Tenerife South Airport,11248882,28.044444444444,-16.5725
+http://www.wikidata.org/entity/Q158732,Stuttgart Airport,10962247,48.69,9.2219444444444
+http://www.wikidata.org/entity/Q1375451,Nanchang Changbei International Airport,10937105,28.865,115.9
+http://www.wikidata.org/entity/Q943743,Francisco de Sá Carneiro Airport,10790271,41.235555555556,-8.6780555555556
+http://www.wikidata.org/entity/Q854130,Cape Town International Airport,10693063,-33.969444444444,18.597222222222
+http://www.wikidata.org/entity/Q849347,Venice Marco Polo Airport,10371380,45.505277777778,12.351944444444
+http://www.wikidata.org/entity/Q3238282,Hohhot Baita International Airport,10348617,40.853333,111.821667
+http://www.wikidata.org/entity/Q384788,Ministro Pistarini International Airport,10327203,-34.82222222,-58.53583333
+http://www.wikidata.org/entity/Q1547,Lyon-Saint Exupéry Airport,10280192,45.725555555556,5.0811111111111
+http://www.wikidata.org/entity/Q44923,Addis Ababa Bole International Airport,10189351,8.9777777777778,38.799444444444
+http://www.wikidata.org/entity/Q1987608,Tancredo Neves International Airport,10073928,-19.62389,-43.97139
+http://www.wikidata.org/entity/Q1048704,Mactan–Cebu International Airport,10050940,10.316666666667,123.98333333333
+http://www.wikidata.org/entity/Q8721,Glasgow Airport,9897959,55.871944444444,-4.4330555555556
+http://www.wikidata.org/entity/Q2421203,Shijiazhuang Zhengding International Airport,9582921,38.280833333333,114.69666666667
+http://www.wikidata.org/entity/Q828386,Linate Airport,9548363,45.449444444444,9.2783333333333
+http://www.wikidata.org/entity/Q3243622,Ningbo Lishe International Airport,9390527,29.826666666667,121.46194444444
+http://www.wikidata.org/entity/Q955433,Mohammed V International Airport,9364861,33.364167,-7.581667
+http://www.wikidata.org/entity/Q372615,Toulouse–Blagnac Airport,9286661,43.635,1.367778
+http://www.wikidata.org/entity/Q716323,Wenzhou Longwan International Airport,9285621,27.911944444444,120.85194444444
+http://www.wikidata.org/entity/Q381653,Viracopos International Airport,9246694,-23.00694,-47.13444
+http://www.wikidata.org/entity/Q1431445,Hefei Xinqiao International Airport,9147128,31.99111111,116.98916667
+http://www.wikidata.org/entity/Q540273,Catania-Fontanarossa Airport,9120913,37.466666666667,15.063888888889
+http://www.wikidata.org/entity/Q651190,Marseille Provence Airport,9002086,43.436666666667,5.215
+http://www.wikidata.org/entity/Q139921,Keflavík Airport,8755351,63.985,-22.605555555556
+http://www.wikidata.org/entity/Q667001,Faro Airport,8728876,37.014444444444,-7.9658333333333
+http://www.wikidata.org/entity/Q849383,Naples International Airport,8577507,40.884444444444,14.290833333333
+http://www.wikidata.org/entity/Q8725,Bristol Airport,8239250,51.382778,-2.719167
+http://www.wikidata.org/entity/Q389241,Bologna Guglielmo Marconi Airport,8220648,44.535444444444,11.288666666667
+http://www.wikidata.org/entity/Q14302,Adelaide Airport,8111934,-34.945,138.53055555556
+http://www.wikidata.org/entity/Q3270994,Yinchuan Hedong International Airport,7936445,38.321666666667,106.3925
+http://www.wikidata.org/entity/Q1432702,Salgado Filho International Airport,7931116,-29.993888888889,-51.171111111111
+http://www.wikidata.org/entity/Q721494,Queen Alia International Airport,7914704,31.7225,35.993333333333
+http://www.wikidata.org/entity/Q1431549,Ibiza Airport,7903928,38.872858,1.373117
+http://www.wikidata.org/entity/Q156971,EuroAirport Basel-Mulhouse-Freiburg,7884366,47.59,7.5291666666667
+http://www.wikidata.org/entity/Q1197688,Guilin Liangjiang International Airport,7862015,25.218055555556,110.03916666667
+http://www.wikidata.org/entity/Q623452,Houari Boumediene Airport,7823634,36.694444444444,3.2169444444444
+http://www.wikidata.org/entity/Q654636,Larnaca International Airport,7728687,34.878888888889,33.630277777778
+http://www.wikidata.org/entity/Q387704,Recife/Guararapes–Gilberto Freyre International Airport,7721419,-8.12639,-34.92278
+http://www.wikidata.org/entity/Q926029,Deputado Luís Eduardo Magalhães International Airport,7642058,-12.90861,-38.3225
+http://www.wikidata.org/entity/Q1142384,Heraklion International Airport,7480408,35.339722,25.180278
+http://www.wikidata.org/entity/Q269588,Edmonton International Airport,7449265,53.31,-113.57944444444
+http://www.wikidata.org/entity/Q1430865,César Manrique Lanzarote Airport,7388964,28.945556,-13.605278
+http://www.wikidata.org/entity/Q206349,Jomo Kenyatta International Airport,7270842,-1.319167,36.9275
+http://www.wikidata.org/entity/Q1352042,Punta Cana International Airport,7264912,18.566666666667,-68.351944444444
+http://www.wikidata.org/entity/Q1433064,Tijuana International Airport,7103200,32.540833333333,-116.97
+http://www.wikidata.org/entity/Q1137115,Gothenburg-Landvetter Airport,6759689,57.66,12.291111111111
+http://www.wikidata.org/entity/Q20455825,Valencia Airport,6745231,39.489444444444,-0.48166666666667
+http://www.wikidata.org/entity/Q1061330,Christchurch International Airport,6732730,-43.489444444444,172.53222222222
+http://www.wikidata.org/entity/Q1433255,Sunan Shuofang International Airport,6683380,31.494444444444,120.42944444444
+http://www.wikidata.org/entity/Q180464,Afonso Pena International Airport,6665944,-25.53167,-49.17611
+http://www.wikidata.org/entity/Q6587733,Yantai Penglai International Airport,6503015,37.66009,120.97857
+http://www.wikidata.org/entity/Q127951,Sofia Airport,6490096,42.695,23.408333333333
+http://www.wikidata.org/entity/Q127958,"Thessaloniki Airport ""Makedonia""",6395523,40.519722,22.970917
+http://www.wikidata.org/entity/Q1043631,Murtala Muhammed International Airport,6235266,6.5772222222222,3.3211111111111
+http://www.wikidata.org/entity/Q612731,Bordeaux–Mérignac Airport,6223414,44.828333,-0.715556
+http://www.wikidata.org/entity/Q1150574,Wellington International Airport,6114658,-41.327222222222,174.80527777778
+http://www.wikidata.org/entity/Q619980,Bergen Airport,6113452,60.293611111111,5.2180611111111
+http://www.wikidata.org/entity/Q505421,Riga International Airport,6097765,56.920833333333,23.970833333333
+http://www.wikidata.org/entity/Q1431349,Fuerteventura Airport,6049291,28.452777777778,-13.863888888889
+http://www.wikidata.org/entity/Q672289,Malta International Airport,6034650,35.8575,14.4775
+http://www.wikidata.org/entity/Q2074717,Pinto Martins – Fortaleza International Airport,5899311,-3.77583,-38.53222
+http://www.wikidata.org/entity/Q1132616,Ciampino–G.B. Pastine International Airport,5885812,41.799444444444,12.597222222222
+http://www.wikidata.org/entity/Q170169,Hannover Airport,5870104,52.460833333333,9.685
+http://www.wikidata.org/entity/Q8979,Belfast International Airport,5836735,54.6575,-6.215833
+http://www.wikidata.org/entity/Q581545,John Paul II International Airport Kraków-Balice,5833757,50.077777777778,19.784722222222
+http://www.wikidata.org/entity/Q1141214,Tunis–Carthage International Airport,5801324,36.851111111111,10.227222222222
+http://www.wikidata.org/entity/Q630645,Falcone–Borsellino Airport,5775274,38.181944444444,13.099444444444
+http://www.wikidata.org/entity/Q1348234,Eindhoven Airport,5704897,51.450556,5.374167
+http://www.wikidata.org/entity/Q1138408,Sochi International Airport,5681974,43.45,39.956666666667
+http://www.wikidata.org/entity/Q858844,Almaty International Airport,5640800,43.351944444444,77.040555555556
+http://www.wikidata.org/entity/Q1430728,Adana Şakirpaşa Airport,5610321,36.981944,35.280278
+http://www.wikidata.org/entity/Q392728,King Shaka International Airport,5527890,-29.614444444444,31.116388888889
+http://www.wikidata.org/entity/Q1432144,Nantes Atlantique Airport,5489087,47.156944444444,-1.6077777777778
+http://www.wikidata.org/entity/Q1334495,Koltsovo Airport,5403885,56.741388888889,60.803611111111
+http://www.wikidata.org/entity/Q833555,Rhodes International Airport,5301517,36.405278,28.086112
+http://www.wikidata.org/entity/Q8975,Newcastle Airport,5297952,55.0375,-1.6916666666667
+http://www.wikidata.org/entity/Q709169,Pisa International Airport,5233118,43.683888888889,10.3925
+http://www.wikidata.org/entity/Q1432871,Simferopol International Airport,5128743,45.052222222222,33.975277777778
+http://www.wikidata.org/entity/Q1344758,San Pablo Airport,5108817,37.418056,-5.898889
+http://www.wikidata.org/entity/Q598197,Bilbao Airport,4973809,43.301111,-2.910556
+http://www.wikidata.org/entity/Q474632,Cairns Airport,4940484,-16.885833333333,145.75527777778
+http://www.wikidata.org/entity/Q2720492,Los Cabos International Airport,4909700,23.151666666667,-109.72083333333
+http://www.wikidata.org/entity/Q8727,Liverpool John Lennon Airport,4901157,53.333611111111,-2.8497222222222
+http://www.wikidata.org/entity/Q8977,East Midlands Airport,4878781,52.831111111111,-1.3280555555556
+http://www.wikidata.org/entity/Q1319833,Ottawa Macdonald-Cartier International Airport,4734997,45.3225,-75.6672
+http://www.wikidata.org/entity/Q385191,Hurghada International Airport,4720356,27.178056,33.799167
+http://www.wikidata.org/entity/Q932514,Tenerife North Airport,4706827,28.488047222222,-16.345913888889
+http://www.wikidata.org/entity/Q779805,Bari Karol Wojtyła Airport,4673652,41.138855555556,16.760594444444
+http://www.wikidata.org/entity/Q779984,Gdańsk Lech Wałęsa Airport,4611714,54.3775,18.466111111111
+http://www.wikidata.org/entity/Q8982,London City Airport,4530439,51.505278,0.055278
+http://www.wikidata.org/entity/Q2666312,Licenciado Gustavo Díaz Ordaz International Airport,4522600,20.680075,-105.254203
+http://www.wikidata.org/entity/Q729886,Trondheim Airport,4428897,63.4575,10.924166666667
+http://www.wikidata.org/entity/Q429304,Marrakesh Menara Airport,4366263,31.608611111111,-8.0408333333333
+http://www.wikidata.org/entity/Q174233,Nursultan Nazarbayev International Airport,4294145,51.022222222222,71.466944444444
+http://www.wikidata.org/entity/Q174140,Sangster International Airport,4225500,18.503611,-77.913333
+http://www.wikidata.org/entity/Q265994,Nuremberg Airport,4186961,49.498611111111,11.078055555556
+http://www.wikidata.org/entity/Q1355258,Stavanger Airport,4178241,58.876666666667,5.6377777777778
+http://www.wikidata.org/entity/Q1323755,Winnipeg James Armstrong Richardson International Airport,4146275,49.91,-97.24
+http://www.wikidata.org/entity/Q8699,Leeds Bradford International Airport,4076616,53.865833333333,-1.6605555555556
+http://www.wikidata.org/entity/Q1345785,Halifax Stanfield International Airport,3966228,44.8797,-63.5103
+http://www.wikidata.org/entity/Q1162558,Katowice International Airport,3885837,50.474166666667,19.08
+http://www.wikidata.org/entity/Q1062676,Las Américas International Airport,3810736,18.429663,-69.668925
+http://www.wikidata.org/entity/Q539298,Hercílio Luz International Airport,3779007,-27.67028,-48.5525
+http://www.wikidata.org/entity/Q847711,Vilnius Airport,3761837,54.636944444444,25.287777777778
+http://www.wikidata.org/entity/Q36460,Sir Seewoosagur Ramgoolam International Airport,3728700,-20.430027777778,57.683022222222
+http://www.wikidata.org/entity/Q1431180,Dalaman Airport,3722013,36.714722,28.792778
+http://www.wikidata.org/entity/Q611983,Beauvais-Tillé Airport,3647522,49.454444,2.112778
+http://www.wikidata.org/entity/Q872186,Luxembourg Airport,3599390,49.623333333333,6.2044444444444
+http://www.wikidata.org/entity/Q483254,Daegu International Airport,3560124,35.894166666667,128.65888888889
+http://www.wikidata.org/entity/Q1192811,Francisco Bangoy International Airport,3553201,7.125522,125.645778
+http://www.wikidata.org/entity/Q766860,Milas-Bodrum Airport,3502098,37.250555555556,27.664166666667
+http://www.wikidata.org/entity/Q1629051,Krasnodar International Airport,3498000,45.034722222222,39.170555555556
+http://www.wikidata.org/entity/Q1050244,Khartoum International Airport,3492097,15.589497222222,32.553161111111
+http://www.wikidata.org/entity/Q525030,Nnamdi Azikiwe International Airport,3433173,9.0068055555556,7.2631944444444
+http://www.wikidata.org/entity/Q598121,Billund Airport,3381584,55.740277777778,9.1519444444444
+http://www.wikidata.org/entity/Q762986,Val de Cans International Airport,3232345,-1.38472,-48.47889
+http://www.wikidata.org/entity/Q639161,Madeira Airport,3204474,32.694166666667,-16.778055555556
+http://www.wikidata.org/entity/Q778213,Tbilisi International Airport,3164139,41.669167,44.954722
+http://www.wikidata.org/entity/Q14300,Canberra International Airport,3105775,-35.306944444444,149.195
+http://www.wikidata.org/entity/Q128016,Zagreb Airport,3092047,45.743055555556,16.068888888889
+http://www.wikidata.org/entity/Q8981,Aberdeen Airport,3090642,57.201944,-2.197778
+http://www.wikidata.org/entity/Q1232348,Chania International Airport,3042903,35.531747222222,24.149677777778
+http://www.wikidata.org/entity/Q1324587,Burgas Airport,2982339,42.570277777778,27.515277777778
+http://www.wikidata.org/entity/Q326268,Sharm el-Sheikh International Airport,2982297,27.977222,34.394722
+http://www.wikidata.org/entity/Q1144233,Corfu International Airport,2918434,39.601945,19.912222
+http://www.wikidata.org/entity/Q1030919,Marechal Rondon International Airport,2878961,-15.65,-56.1175
+http://www.wikidata.org/entity/Q201374,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,2853479,-31.31,-64.208333333333
+http://www.wikidata.org/entity/Q650285,Ufa International Airport,2794407,54.5575,55.874166666667
+http://www.wikidata.org/entity/Q844951,Chișinău International Airport,2744653,46.927777777778,28.930833333333
+http://www.wikidata.org/entity/Q16534881,Platov International Airport,2719518,47.47155556,39.92397222
+http://www.wikidata.org/entity/Q1209088,Kalibo International Airport,2711036,11.681337,122.37765
+http://www.wikidata.org/entity/Q1068685,Cluj International Airport,2688388,46.785092,23.68612
+http://www.wikidata.org/entity/Q950834,Kurumoch International Airport,2631729,53.501666666667,50.155
+http://www.wikidata.org/entity/Q47151,Kazan International Airport,2623423,55.606666666667,49.281666666667
+http://www.wikidata.org/entity/Q657271,Eduardo Gomes International Airport,2606645,-3.0411111111111,-60.050555555556
+http://www.wikidata.org/entity/Q483675,Cheongju International Airport,2571551,36.716388888889,127.49916666667
+http://www.wikidata.org/entity/Q1431860,Lamezia Terme International Airport,2571305,38.905277777778,16.242222222222
+http://www.wikidata.org/entity/Q8987,George Best Belfast City Airport,2559846,54.615486,-5.871233
+http://www.wikidata.org/entity/Q29863,Stockholm Bromma Airport,2540859,59.354444444444,17.939722222222
+http://www.wikidata.org/entity/Q665365,Bremen Airport,2540084,53.0475,8.786667
+http://www.wikidata.org/entity/Q1050707,Paphos International Airport,2516628,34.718333333333,32.485
+http://www.wikidata.org/entity/Q15498,Hobart International Airport,2510343,-42.836112,147.510278
+http://www.wikidata.org/entity/Q177689,Kotoka International Airport,2504804,5.6046666666667,-0.16738888888889
+http://www.wikidata.org/entity/Q2090101,Greater Natal International Airport,2390159,-5.76889,-35.36639
+http://www.wikidata.org/entity/Q1411192,Julius Nyerere International Airport,2385456,-6.8780555555556,39.202777777778
+http://www.wikidata.org/entity/Q668382,Leipzig/Halle Airport,2361534,51.423888888889,12.236388888889
+http://www.wikidata.org/entity/Q1156872,Pointe-à-Pitre International Airport,2361173,16.264166666667,-61.525833333333
+http://www.wikidata.org/entity/Q1420601,Kos Island International Airport,2335639,36.793336111111,27.091666666667
+http://www.wikidata.org/entity/Q1345361,Cork Airport,2308507,51.841388888889,-8.4911111111111
+http://www.wikidata.org/entity/Q1431601,Yemelyanovo International Airport,2258634,56.171666666667,92.493333333333
+http://www.wikidata.org/entity/Q1194015,Borg El Arab Airport,2205957,30.917778,29.696389
+http://www.wikidata.org/entity/Q577067,Vladivostok International Airport,2171922,43.399166666667,132.15138888889
+http://www.wikidata.org/entity/Q1431328,Foz do Iguaçu International Airport,2149388,-25.600277777778,-54.485
+http://www.wikidata.org/entity/Q1432118,Manuel Crescencio Rejón International Airport,2148484,20.936944444444,-89.657777777778
+http://www.wikidata.org/entity/Q1431698,Erkilet International Airport,2147367,38.770277777778,35.495277777778
+http://www.wikidata.org/entity/Q17609,Darwin International Airport,2076855,-12.414722222222,130.87666666667
+http://www.wikidata.org/entity/Q2448604,Zumbi dos Palmares International Airport,2041208,-9.5172222222222,-35.783611111111
+http://www.wikidata.org/entity/Q3085934,Iloilo International Airport,2023016,10.714722,122.543612
+http://www.wikidata.org/entity/Q1431564,International Airport Irkutsk,1973584,52.267222222222,104.39472222222
+http://www.wikidata.org/entity/Q1423410,Varna Airport,1970700,43.231944444444,27.825277777778
+http://www.wikidata.org/entity/Q651330,Martinique Aimé Césaire International Airport,1946666,14.592222222222,-60.996388888889
+http://www.wikidata.org/entity/Q130193,Victoria International Airport,1934842,48.6472,-123.426
+http://www.wikidata.org/entity/Q251538,Salzburg Airport,1895429,47.794444444444,13.003333333333
+http://www.wikidata.org/entity/Q1431708,Kelowna International Airport,1893470,49.9572,-119.378
+http://www.wikidata.org/entity/Q1204970,Queenstown Airport,1892443,-45.021111111111,168.73916666667
+http://www.wikidata.org/entity/Q939543,Kyiv Zhuliany International Airport,1851600,50.401666666667,30.451666666667
+http://www.wikidata.org/entity/Q2290825,Roshchino International Airport,1822909,57.168333333333,65.316666666667
+http://www.wikidata.org/entity/Q1432514,Puerto Princesa International Airport,1790115,9.7422222222222,118.75861111111
+http://www.wikidata.org/entity/Q3274023,Laguindingan International Airport,1776353,8.6125,124.45722222222
+http://www.wikidata.org/entity/Q1432029,Governor Francisco Gabrielli International Airport,1758496,-32.83166667,-68.79277778
+http://www.wikidata.org/entity/Q584102,Shannon Airport,1751500,52.701944444444,-8.9247222222222
+http://www.wikidata.org/entity/Q1432943,Surgut International Airport,1721044,61.343888888889,73.402222222222
+http://www.wikidata.org/entity/Q657005,Dresden Airport,1709277,51.134444444444,13.768055555556
+http://www.wikidata.org/entity/Q794549,Québec City Jean Lesage International Airport,1670880,46.8,-71.383333
+http://www.wikidata.org/entity/Q733326,Zakynthos International Airport,1659646,37.750833333333,20.884166666667
+http://www.wikidata.org/entity/Q1431468,General Ignacio Pesqueira García International Airport,1627800,29.095833333333,-111.04777777778
+http://www.wikidata.org/entity/Q1417736,Traian Vuia International Airport,1621529,45.81,21.338055555556
+http://www.wikidata.org/entity/Q587801,Marechal Cunha Machado International Airport,1617679,-2.58694,-44.23611
+http://www.wikidata.org/entity/Q1432040,Ministro Victor Konder International Airport,1558608,-26.88,-48.651388888889
+http://www.wikidata.org/entity/Q1416280,Agadir–Al Massira Airport,1544244,30.3225,-9.4113888888889
+http://www.wikidata.org/entity/Q607211,Campo Grande International Airport,1528982,-20.469444444444,-54.670277777778
+http://www.wikidata.org/entity/Q692279,Clark International Airport,1514531,15.185833333333,120.55972222222
+http://www.wikidata.org/entity/Q1516699,St. John's International Airport,1507720,47.618611111111,-52.7525
+http://www.wikidata.org/entity/Q1825524,Bacolod-Silay International Airport,1498741,10.642467,122.929622
+http://www.wikidata.org/entity/Q1430711,Saskatoon John G. Diefenbaker International Airport,1442978,52.1708,-106.7
+http://www.wikidata.org/entity/Q1430901,Asturias Airport,1407837,43.563611111111,-6.0347222222222
+http://www.wikidata.org/entity/Q1431111,Cibao International Airport,1384235,19.406111111111,-70.604722222222
+http://www.wikidata.org/entity/Q2876050,Presidente Castro Pinto International Airport,1375742,-7.1458333333333,-34.948611111111
+http://www.wikidata.org/entity/Q3274799,General Heriberto Jara International Airport,1367972,19.14578,-96.187363
+http://www.wikidata.org/entity/Q1049719,Faa'a International Airport,1291807,-17.556666666667,-149.61138888889
+http://www.wikidata.org/entity/Q370274,San Carlos de Bariloche Airport,1273087,-41.15111111,-71.15777778
+http://www.wikidata.org/entity/Q2231542,Carlos Rovirosa Pérez International Airport,1260277,17.99702,-92.814813
+http://www.wikidata.org/entity/Q1571015,Regina International Airport,1203713,50.4322,-104.666
+http://www.wikidata.org/entity/Q1431529,Iași International Airport,1146218,47.178888888889,27.62
+http://www.wikidata.org/entity/Q482315,Amílcar Cabral International Airport,1092789,16.737588888889,-22.950016666667
+http://www.wikidata.org/entity/Q694434,Innsbruck Airport,1092547,47.260277777778,11.343888888889
+http://www.wikidata.org/entity/Q652588,Martín Miguel de Güemes International Airport,1083435,-24.844444444444,-65.478611111111
+http://www.wikidata.org/entity/Q1433022,Tangier Ibn Battouta Airport,1074177,35.726916666667,-5.9168888888889
+http://www.wikidata.org/entity/Q1433148,Umeå Airport,1055353,63.793055,20.28
+http://www.wikidata.org/entity/Q1433263,Volgograd International Airport,1013823,48.781666666667,44.346666666667
+http://www.wikidata.org/entity/Q1360523,Luis Muñoz Marín International Airport,1001896,18.439166666667,-66.001944444444
+http://www.wikidata.org/entity/Q1962002,Cataratas del Iguazú International Airport,999533,-25.73722,-54.47354
+http://www.wikidata.org/entity/Q1200033,Zamboanga International Airport,980476,6.9224194444444,122.05963333333
+http://www.wikidata.org/entity/Q1364375,Dunedin International Airport,973089,-45.928055555556,170.19833333333
+http://www.wikidata.org/entity/Q673760,Münster Osnabrück International Airport,962348,52.134642,7.68483
+http://www.wikidata.org/entity/Q1432178,Nizhny Novgorod International Airport,961491,56.23,43.786666666667
+http://www.wikidata.org/entity/Q178162,Graz Airport,959166,46.993055555556,15.439166666667
+http://www.wikidata.org/entity/Q766356,Gregorio Luperón International Airport,945441,19.757777777778,-70.57
+http://www.wikidata.org/entity/Q1131604,Oulu Airport,927884,64.929166666667,25.355555555556
+http://www.wikidata.org/entity/Q1432573,Rabat-Salé Airport,924686,34.051388888889,-6.7516666666667
+http://www.wikidata.org/entity/Q8999,Exeter International Airport,908750,50.734444444444,-3.4138888888889
+http://www.wikidata.org/entity/Q1065223,Al Maktoum International Airport,904940,24.886111111111,55.172222222222
+http://www.wikidata.org/entity/Q1432218,Xoxocotlán International Airport,862286,17.0,-96.726666666667
+http://www.wikidata.org/entity/Q2600422,Presidente Perón International Airport,860247,-38.95137,-68.14057
+http://www.wikidata.org/entity/Q1030564,Manuel Márquez de León International Airport,848500,24.072747,-110.362542
+http://www.wikidata.org/entity/Q2479774,General Santos International Airport,838941,6.10644,125.235
+http://www.wikidata.org/entity/Q847779,Wilmington International Airport,836589,34.270555555556,-77.9025
+http://www.wikidata.org/entity/Q2493883,General Rodolfo Sánchez Taboada International Airport,804000,32.630555555556,-115.24138888889
+http://www.wikidata.org/entity/Q1433151,Ushuaia – Malvinas Argentinas International Airport,798709,-54.8396,-68.3123
+http://www.wikidata.org/entity/Q1209229,Mudanjiang Hailang International Airport,784991,44.524166666667,129.56888888889
+http://www.wikidata.org/entity/Q1153219,Governador Jorge Teixeira de Oliveira International Airport,779332,-8.7136111111111,-63.902777777778
+http://www.wikidata.org/entity/Q2901831,Bahías de Huatulco International Airport,776632,15.775277777778,-96.2625
+http://www.wikidata.org/entity/Q2748239,Thunder Bay International Airport,763283,48.371944444444,-89.321666666667
+http://www.wikidata.org/entity/Q2593243,Lic. Jesús Terán Peredo International Airport,754100,21.705555555556,-102.31777777778
+http://www.wikidata.org/entity/Q1432622,Rosario – Islas Malvinas International Airport,731424,-32.90361111,-60.78444444
+http://www.wikidata.org/entity/Q1139165,Huangshan Tunxi International Airport,725948,29.73,118.25277777778
+http://www.wikidata.org/entity/Q670072,Fort McMurray International Airport,713108,56.6533,-111.223
+http://www.wikidata.org/entity/Q1432126,Nador International Airport,706979,34.988780555556,-3.0282055555556
+http://www.wikidata.org/entity/Q969671,Abbotsford International Airport,677653,49.0253,-122.36
+http://www.wikidata.org/entity/Q2876104,Greater Moncton International Airport,665630,46.1122,-64.6786
+http://www.wikidata.org/entity/Q1191196,Praia International Airport,662356,14.941111111111,-23.484722222222
+http://www.wikidata.org/entity/Q1432305,Palmerston North International Airport,630000,-40.320555,175.616945
+http://www.wikidata.org/entity/Q1364927,Cephalonia International Airport “Anna Pollatou”,629671,38.12,20.500277777778
+http://www.wikidata.org/entity/Q3275909,General Enrique Mosconi International Airport,617992,-45.78527778,-67.46555556
+http://www.wikidata.org/entity/Q2444515,Voronezh International Airport,606289,51.815,39.23
+http://www.wikidata.org/entity/Q1655986,Comandante Armando Tola International Airport,602898,-50.28,-72.05305556
+http://www.wikidata.org/entity/Q1431444,John C. Munro Hamilton International Airport,599596,43.173611111111,-79.935
+http://www.wikidata.org/entity/Q1323139,Rovaniemi Airport,581921,66.561666666667,25.830833333333
+http://www.wikidata.org/entity/Q1270645,Macapá International Airport,567229,0.05083,-51.07028
+http://www.wikidata.org/entity/Q1432711,Teniente Benjamín Matienzo International Airport,556318,-26.840833333333,-65.104722222222
+http://www.wikidata.org/entity/Q1431147,Cozumel International Airport,541598,20.515,-86.928888888889
+http://www.wikidata.org/entity/Q892783,La Tontouta International Airport,529450,-22.016388888889,166.21611111111
+http://www.wikidata.org/entity/Q349673,Norwich International Airport,528153,52.6758,1.28278
+http://www.wikidata.org/entity/Q1431928,London International Airport,513273,43.0331,-81.1511
+http://www.wikidata.org/entity/Q583424,Hermanos Serdán International Airport,511833,19.158055555556,-98.371388888889
+http://www.wikidata.org/entity/Q946418,Sibiu International Airport,503906,45.7890231,24.0949867
+http://www.wikidata.org/entity/Q1200570,Batumi International Airport,495668,41.610277777778,41.599444444444
+http://www.wikidata.org/entity/Q777774,Košice International Airport,495194,48.663055555556,21.241111111111
+http://www.wikidata.org/entity/Q762179,Belgorod International Airport,468773,50.643333333333,36.59
+http://www.wikidata.org/entity/Q130864,New York Stewart International Airport,448698,41.504166666667,-74.104722222222
+http://www.wikidata.org/entity/Q1528995,Mytilene International Airport,437114,39.057347,26.597852
+http://www.wikidata.org/entity/Q1147758,Bacău International Airport,425733,46.521944444444,26.910277777778
+http://www.wikidata.org/entity/Q2388744,Zhukovsky International Airport,425500,55.553333333333,38.151666666667
+http://www.wikidata.org/entity/Q1432699,Samos International Airport,410331,37.69,26.911667
+http://www.wikidata.org/entity/Q1156904,Kutaisi International Airport,405173,42.176388888889,42.4825
+http://www.wikidata.org/entity/Q700852,Linz Airport,402007,48.233333333333,14.1875
+http://www.wikidata.org/entity/Q240706,Kemerovo International Airport,398026,55.271666666667,86.11
+http://www.wikidata.org/entity/Q1431002,Broome International Airport,388516,-17.944722222222,122.23166666667
+http://www.wikidata.org/entity/Q642313,Dzaoudzi Pamandzi International Airport,385376,-12.806667,45.280555
+http://www.wikidata.org/entity/Q2735729,Fredericton International Airport,383228,45.8689,-66.5372
+http://www.wikidata.org/entity/Q21644281,Sabetta International Airport,369819,71.21916667,72.05222222
+http://www.wikidata.org/entity/Q1432260,Ostend-Bruges International Airport,365555,51.200278,2.870278
+http://www.wikidata.org/entity/Q2231684,Ciudad del Carmen International Airport,362755,18.653611111111,-91.798888888889
+http://www.wikidata.org/entity/Q1188577,Port Hedland International Airport,354297,-20.377777777778,118.62638888889
+http://www.wikidata.org/entity/Q1433251,Erik Nielsen Whitehorse International Airport,349447,60.709444444444,-135.06722222222
+http://www.wikidata.org/entity/Q1431949,Valle del Fuerte Federal International Airport,348500,25.686088,-109.0812
+http://www.wikidata.org/entity/Q5110606,Rio Branco International Airport,344459,-9.8688888888889,-67.898055555556
+http://www.wikidata.org/entity/Q676516,Kavala International Airport,337963,40.913333333333,24.619166666667
+http://www.wikidata.org/entity/Q1130231,Turku Airport,334699,60.514722222222,22.261666666667
+http://www.wikidata.org/entity/Q903138,Debrecen International Airport,318342,47.488888888889,21.615277777778
+http://www.wikidata.org/entity/Q3495781,Resistencia International Airport,316082,-27.45,-59.05611111
+http://www.wikidata.org/entity/Q1052673,Windsor International Airport,307283,42.276111111111,-82.955277777778
+http://www.wikidata.org/entity/Q1140972,Federico Fellini International Airport,305576,44.019444444444,12.609444444444
+http://www.wikidata.org/entity/Q1331040,Ciudad Obregón International Airport,303401,27.3925,-109.83305555556
+http://www.wikidata.org/entity/Q1332588,Palanga International Airport,302198,55.973333333333,21.093888888889
+http://www.wikidata.org/entity/Q484060,Muan International Airport,298016,34.991405555556,126.38281388889
+http://www.wikidata.org/entity/Q2233085,Tapachula International Airport,292592,14.794444444444,-92.37
+http://www.wikidata.org/entity/Q924954,Kalamata International Airport,284170,37.068383333333,22.025636111111
+http://www.wikidata.org/entity/Q597669,Boa Vista International Airport,284131,2.84139,-60.69222
+http://www.wikidata.org/entity/Q2902159,Astor Piazzolla International Airport,279981,-37.93416667,-57.57333333
+http://www.wikidata.org/entity/Q1708773,Chetumal International Airport,275610,18.504666666667,-88.326847222222
+http://www.wikidata.org/entity/Q17480,Antwerp International Airport,273130,51.189444444444,4.4602777777778
+http://www.wikidata.org/entity/Q1927818,Gobernador Horacio Guzmán International Airport,262912,-24.3925,-65.09777778
+http://www.wikidata.org/entity/Q653299,Prince Said Ibrahim International Airport,259427,-11.536666666667,43.271388888889
+http://www.wikidata.org/entity/Q1371018,Perugia San Francesco d'Assisi – Umbria International Airport,250133,43.09737,12.510167
+http://www.wikidata.org/entity/Q2876048,Piloto Civil Norberto Fernández International Airport,248479,-51.608888,-69.312778
+http://www.wikidata.org/entity/Q1134679,Rotorua International Airport,241303,-38.109166666667,176.31722222222
+http://www.wikidata.org/entity/Q973283,Kuopio Airport,236248,63.008611111111,27.794444444444
+http://www.wikidata.org/entity/Q1126306,Tampere-Pirkkala Airport,230260,61.415277777778,23.587777777778
+http://www.wikidata.org/entity/Q694404,Klagenfurt Airport,218281,46.642777777778,14.337222222222
+http://www.wikidata.org/entity/Q850269,Ivalo Airport,210993,68.610833333333,27.413888888889
+http://www.wikidata.org/entity/Q598033,Laoag International Airport,204156,18.178055555556,120.53166666667
+http://www.wikidata.org/entity/Q737856,La Romana International Airport,198255,18.451074,-68.911657
+http://www.wikidata.org/entity/Q2156249,Magnitogorsk International Airport,193175,53.393333333333,58.756666666667
+http://www.wikidata.org/entity/Q1431076,Chambéry Airport,186515,45.64,5.8811111111111
+http://www.wikidata.org/entity/Q558204,Abakan International Airport,185185,53.743277777778,91.385861111111
+http://www.wikidata.org/entity/Q2631115,Playa de Oro International Airport,182000,19.144722222222,-104.55861111111
+http://www.wikidata.org/entity/Q1932879,Ing. Alberto Acuña Ongay International Airport,178675,19.815833,-90.500833
+http://www.wikidata.org/entity/Q1431350,Gander International Airport,171558,48.9369,-54.5681
+http://www.wikidata.org/entity/Q1430762,Alexandroupolis International Airport,169806,40.855869444444,25.956263888889
+http://www.wikidata.org/entity/Q1108990,Erenhot Saiwusu International Airport,163111,43.42666667,112.09833333
+http://www.wikidata.org/entity/Q2102332,Oradea International Airport,162902,47.025277777778,21.9025
+http://www.wikidata.org/entity/Q1262548,Samaná El Catey International Airport,134498,19.27,-69.7375
+http://www.wikidata.org/entity/Q908580,Canadian Rockies International Airport,132424,49.6122,-115.782
+http://www.wikidata.org/entity/Q382546,Mihail Kogălniceanu International Airport,127635,44.362222222222,28.488333333333
+http://www.wikidata.org/entity/Q2442630,Kogalym International Airport,127382,62.19,74.535
+http://www.wikidata.org/entity/Q130270,Cuneo International Airport,121663,44.54595,7.62182
+http://www.wikidata.org/entity/Q29864,Stockholm Västerås Airport,120518,59.589444444444,16.633611111111
+http://www.wikidata.org/entity/Q2233135,Formosa International Airport,105730,-26.21277778,-58.22805556
+http://www.wikidata.org/entity/Q1432944,Szczytno-Szymany International Airport,101306,53.481944444444,20.937777777778
+http://www.wikidata.org/entity/Q1656438,Doctor Fernando Piragine Niveyro International Airport,95834,-27.445555555556,-58.761944444444
+http://www.wikidata.org/entity/Q2670580,Lemnos International Airport,91874,39.917072222222,25.236308333333
+http://www.wikidata.org/entity/Q1370380,Plovdiv Airport,91600,42.067778,24.850833
+http://www.wikidata.org/entity/Q389802,General Servando Canales International Airport,88147,25.769894444444,-97.525311111111
+http://www.wikidata.org/entity/Q1932928,Loreto International Airport,85375,25.989878,-111.34697
+http://www.wikidata.org/entity/Q1657929,Cruzeiro do Sul International Airport,79709,-7.59944,-72.76944
+http://www.wikidata.org/entity/Q3273846,General Pedro J. Méndez International Airport,63144,23.703888888889,-98.956388888889
+http://www.wikidata.org/entity/Q2576078,Tabatinga International Airport,61808,-4.25056,-69.93778
+http://www.wikidata.org/entity/Q1657365,Coronel Felipe Varela International Airport,61584,-28.593055555556,-65.750833333333
+http://www.wikidata.org/entity/Q2234608,Satu Mare International Airport,60795,47.703333333333,22.885555555556
+http://www.wikidata.org/entity/Q3813677,Cabo Frio International Airport,41025,-22.92083,-42.07139
+http://www.wikidata.org/entity/Q59733,La Isabela International Airport,32474,18.575555555556,-69.981388888889
+http://www.wikidata.org/entity/Q2395917,Pelotas International Airport,28652,-31.71611,-52.33111
+http://www.wikidata.org/entity/Q1657573,Corumbá International Airport,27817,-19.011944444444,-57.671388888889
+http://www.wikidata.org/entity/Q2744827,Ruben Berta International Airport,21021,-29.78333,-57.03694
+http://www.wikidata.org/entity/Q1771329,Bryansk International Airport,20444,53.21416667,34.17638889
+http://www.wikidata.org/entity/Q483469,Yangyang International Airport,15780,38.061388888889,128.66916666667
+http://www.wikidata.org/entity/Q1331032,General José María Yáñez International Airport,13550,27.969325,-110.923717
+http://www.wikidata.org/entity/Q1187044,Hévíz–Balaton Airport,13229,46.686388888889,17.159166666667
+http://www.wikidata.org/entity/Q1424725,Arad International Airport,10817,46.176666666667,21.261944444444
+http://www.wikidata.org/entity/Q6587028,Parnaíba-Prefeito Dr. João Silva Filho International Airport,8791,-2.8930555555556,-41.729722222222
+http://www.wikidata.org/entity/Q1432093,Ostafyevo International Airport,7700,55.511666666667,37.507222222222
+http://www.wikidata.org/entity/Q2536144,Kortrijk-Wevelgem International Airport,6512,50.8172,3.20472
+http://www.wikidata.org/entity/Q843229,Aurel Vlaicu International Airport,5645,44.503611111111,26.103611111111
+http://www.wikidata.org/entity/Q517037,Liepāja International Airport,4780,56.5175,21.096944444444
+http://www.wikidata.org/entity/Q255039,Pécs-Pogány International Airport,4595,45.990927777778,18.240983333333
+http://www.wikidata.org/entity/Q1433338,Šiauliai International Airport,712,55.893888888889,23.394722222222
+http://www.wikidata.org/entity/Q645100,Târgu Mureș International Airport,592,46.467713,24.412525
+http://www.wikidata.org/entity/Q1431400,Gorna Oryahovitsa Airport,361,43.151444444444,25.712888888889
+http://www.wikidata.org/entity/Q2579272,Augusto Severo International Airport,0,-5.9083333333333,-35.249166666667
+http://www.wikidata.org/entity/Q3661908,Istanbul Airport,0,41.260833333333,28.742222222222
